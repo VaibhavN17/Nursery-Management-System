@@ -4,7 +4,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/nursery-management/system?style=for-the-badge&color=2D6A4F)](https://github.com/nursery-management/system)
 [![GitHub Forks](https://img.shields.io/github/forks/nursery-management/system?style=for-the-badge&color=40916C)](https://github.com/nursery-management/system)
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/status-beta-orange?style=for-the-badge)](https://github.com/nursery-management/system)
 [![Node](https://img.shields.io/badge/node-18+-40916C?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![Java](https://img.shields.io/badge/java-21+-2D6A4F?style=for-the-badge&logo=java)](https://www.java.com/)
