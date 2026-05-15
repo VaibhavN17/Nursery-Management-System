@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/nursery-management/system?style=for-the-badge&color=2D6A4F)](https://github.com/nursery-management/system)
-[![GitHub Forks](https://img.shields.io/github/forks/nursery-management/system?style=for-the-badge&color=40916C)](https://github.com/nursery-management/system)
+[![GitHub Stars](https://img.shields.io/github/stars/VaibhavN17/Nursery-Management-System?style=for-the-badge&color=2D6A4F)](https://github.com/VaibhavN17/Nursery-Management-System)
+[![GitHub Forks](https://img.shields.io/github/forks/VaibhavN17/Nursery-Management-System?style=for-the-badge&color=40916C)](https://github.com/VaibhavN17/Nursery-Management-System)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/status-beta-orange?style=for-the-badge)](https://github.com/nursery-management/system)
+[![Status](https://img.shields.io/badge/status-beta-orange?style=for-the-badge)](https://github.com/VaibhavN17/Nursery-Management-System)
 [![Node](https://img.shields.io/badge/node-18+-40916C?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![Java](https://img.shields.io/badge/java-21+-2D6A4F?style=for-the-badge&logo=java)](https://www.java.com/)
 
@@ -222,7 +222,7 @@ Docker Compose ≥ 2.0
 
 ```bash
 # Clone the repository
-git clone https://github.com/nursery-management/system.git
+git clone https://github.com/VaibhavN17/Nursery-Management-System.git
 cd nursery-management-system
 
 # Create environment configuration
@@ -687,8 +687,8 @@ See [CONTRIBUTORS.md](CONTRIBUTORS.md) for list of amazing contributors!
 - 📧 **Email**: support@nurserysystem.com
 - 💬 **Chat**: [Discord Community](https://discord.gg/nurserysystem)
 - 📱 **Phone**: +91-XXXX-XXXX-XX (Business Hours)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/nursery-management/system/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/nursery-management/system/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/VaibhavN17/Nursery-Management-System/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/VaibhavN17/Nursery-Management-System/discussions)
 
 ### Community
 - [Developer Forum](https://forum.nurserysystem.com)
